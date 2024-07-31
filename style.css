@@ -1,0 +1,86 @@
+.border{
+    display: inline;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}
+.two{
+    display: inline;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}
+.three{
+    display: inline;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}
+.four{
+    display: inline;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}
+.five{
+    display: inline;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}.six{
+    display: inline;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 150PX;
+    text-decoration: none;
+}
+#six{
+    font-size: larger;
+    font-weight: bolder;
+}
+.a{ color: red;
+font-size: larger;
+font-weight: bolder;
+
+}
+.ul {
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    padding-right: 100px;
+}
+.b{
+    color: red;
+    
+}
+.v{
+    text-decoration: none;
+}
+
+.c{
+    color: red;
+    
+}
+
+.d{
+    color: red;
+    font-size: larger;
+font-weight: bolder;
+}
+
+.e{
+    color: red;
+}
+
+.f{
+    color: red;
+    
+}
+
+
+
